@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "1.0.0",
+  "version": "0.0.7-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,8 @@
   "keywords": [],
   "author": "jin_gang <jin_gang@hunliji.com>",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
-    "@hkx/core": "0.0.6",
-    "@hkx/utils": "0.0.6"
+    "@hkx/core": "^0.0.7-alpha.0",
+    "@hkx/utils": "^0.0.7-alpha.0"
   }
 }
