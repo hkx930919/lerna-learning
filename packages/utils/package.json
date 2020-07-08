@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "jin_gang <jin_gang@hunliji.com>",
+  "author": "jin_gang <jin_gang@test.com>",
   "license": "ISC",
-  "gitHead": "d92b5d699ba9fa6570d88b918bdbb3a24deac814"
+  "gitHead": "b5fa679123e80f37af9932cb263924094ee77b0a"
 }
