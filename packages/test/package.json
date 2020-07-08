@@ -1,6 +1,6 @@
 {
   "name": "@hkx/test",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "jin_gang <jin_gang@hunliji.com>",
   "license": "ISC",
   "devDependencies": {
-    "@hkx/core": "^0.0.7",
-    "@hkx/utils": "^0.0.7"
+    "@hkx/core": "^0.0.8",
+    "@hkx/utils": "^0.0.8"
   },
   "gitHead": "de8a2efca8bf699f1cd03d91dcf6a3b466e6041d"
 }

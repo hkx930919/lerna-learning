@@ -1,6 +1,6 @@
 {
   "name": "@hkx/utils",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "gitHead": "de8a2efca8bf699f1cd03d91dcf6a3b466e6041d",
   "dependencies": {
-    "@hkx/core": "^0.0.7"
+    "@hkx/core": "^0.0.8"
   }
 }
