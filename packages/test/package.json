@@ -12,5 +12,6 @@
   "devDependencies": {
     "@hkx/core": "^0.0.7-alpha.0",
     "@hkx/utils": "^0.0.7-alpha.0"
-  }
+  },
+  "gitHead": "06dbf60a83cbc2c991d6bacc82b7178f35ff086b"
 }

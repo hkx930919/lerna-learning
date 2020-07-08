@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "jin_gang <jin_gang@test.com>",
   "license": "ISC",
-  "gitHead": "96110192cd6059c6d26207d79891d71abec844ce",
+  "gitHead": "06dbf60a83cbc2c991d6bacc82b7178f35ff086b",
   "dependencies": {
     "@hkx/utils": "^0.0.7-alpha.0"
   }
