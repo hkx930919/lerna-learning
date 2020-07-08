@@ -1,0 +1,5 @@
+47 error Error: Command failed: git push --follow-tags --no-verify --atomic origin master
+47 error fatal: unable to access 'https://github.com/hkx930919/lerna-learning.git/': Failed to connect to github.com port 443: Timed out
+47 error
+47 error     at makeError (D:\primate\node_modules\execa\index.js:174:9)
+47 error     at D:\primate\node_modules\execa\index.js:278:16
