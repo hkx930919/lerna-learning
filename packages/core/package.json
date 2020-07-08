@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@hkx/core",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "jin_gang <jin_gang@hunliji.com>",
   "license": "ISC",
-  "gitHead": "60b4110b1d7519da0d1c674cf5e8bf669dfe0c0b"
+  "gitHead": "d92b5d699ba9fa6570d88b918bdbb3a24deac814"
 }
