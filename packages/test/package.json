@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "@hkx/test",
   "version": "0.0.7",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,5 @@
     "@hkx/core": "^0.0.7",
     "@hkx/utils": "^0.0.7"
   },
-  "gitHead": "06dbf60a83cbc2c991d6bacc82b7178f35ff086b"
+  "gitHead": "de8a2efca8bf699f1cd03d91dcf6a3b466e6041d"
 }
